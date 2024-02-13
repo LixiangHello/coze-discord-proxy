@@ -10,9 +10,9 @@ services:
     volumes:
       - ./data:/app/coze-discord-proxy/data
     environment:
-      - BOT_TOKEN=MTIwNzAxMDQ4NjA0MzAyNTQxOA.G-jnyh.7PP31PmJQ66-zDymohKwOc4a8nnyFzYYFrUtxw
-      - GUILD_ID=1207008801916715078
-      - COZE_BOT_ID=1207009406223519865
-      - CHANNEL_ID=1207008801916715081
-      - PROXY_SECRET=Qw12#.
+      - BOT_TOKEN=xx
+      - GUILD_ID=xx
+      - COZE_BOT_ID=xx
+      - CHANNEL_ID=xx
+      - PROXY_SECRET=xx
       - TZ=Asia/Shanghai
